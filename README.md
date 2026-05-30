@@ -1,1 +1,1 @@
-# Redux-Toolkit-Todo
+# Redux-Toolkit-Todo .This application demonstrates the usage and impact of state management via redux toolkit.
